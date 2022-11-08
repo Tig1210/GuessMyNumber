@@ -1,5 +1,5 @@
 # GuessMyNumber
-## link:  https://tig1210.github.io/ApiRickandMorty/
+## link:   https://tig1210.github.io/GuessMyNumber/
 ## Игра угадай число
 ### Разработан на основе:
 - Html
